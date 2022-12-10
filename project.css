@@ -1,0 +1,11 @@
+.thick {font-weight: bold;}
+.wrap {position: relative;}
+.center {
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);}
+.center01 {margin:0 auto}
+
+
+
